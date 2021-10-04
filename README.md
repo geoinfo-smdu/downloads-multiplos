@@ -10,7 +10,7 @@ Compartilhar o conhecimento de uma possibilidade de automatização de tarefas r
 
 Neste repositório é apresentada uma técnica em Python, com Jupyter Notebooks comentados para download das camadas de Lotes e Edificações
 
-## Como utililzar?
+## Como utilizar?
 
 É necessário possuir conhecimento básico de programação em Python e uma versão instalada em sua máquina para executar os scripts apresentados.
 
